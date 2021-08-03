@@ -1,9 +1,4 @@
-/**
- * Noise Reduction Tests
- * main.js
- *
- * Eric Schmidt 2014
- */
+
 
 (function() {
     "use strict";
